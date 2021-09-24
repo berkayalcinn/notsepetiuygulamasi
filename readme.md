@@ -2,7 +2,7 @@
 
 Udemy'deki Sıfırdan Zirveye Javascript ve NodeJS kursu kapsamında gerçekleştirilmiştir. Gerçekleştirmek istediğiniz eylemleri/aktiviteleri unutmamak adına not alabileceğiniz, tamamladıktan sonra tamamlandı olarak seçebileceğiniz ve listeden kaldırmak istediğiniz de silebileceğiniz bir web sitesi çalışmasıdır. :)
 
-### Proje kapsamında aşağıdaki diller kullanılmıştır.
+### Proje kapsamında aşağıdaki diller kullanılmıştır;
 
 - HTML5
 - CSS3
