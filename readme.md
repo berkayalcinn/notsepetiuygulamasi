@@ -8,7 +8,7 @@ Udemy'deki Sıfırdan Zirveye Javascript ve NodeJS kursu kapsamında gerçekleş
 - CSS3
 - Javascript
 
-Favori editörünüzü kullanarak dosyalarımı indirip ya da clone komutuyla bilgisayarınıza aktarıp deneyebilirsiniz! Default olarak not olmayan sizleri selamlama maksatlı iki not eklemiştim. Projeyi deneyimlemek adına isterseniz onları silip, direkt kendi notlarınızı eklemeyip projemi deneyimleyebilirsiniz.
+Favori editörünüzü kullanarak dosyalarımı indirip ya da clone komutuyla bilgisayarınıza aktarıp deneyebilirsiniz! Default olarak, not olmayan, sizleri selamlama maksatlı iki not eklemiştim. Projeyi deneyimlemek adına isterseniz onları silip, direkt kendi notlarınızı ekleyip projemi deneyimleyebilirsiniz.
 
 **Berkay Yalçın** -> berkayalcinn@icloud.com
 
